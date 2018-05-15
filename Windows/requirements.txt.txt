@@ -1,0 +1,9 @@
+1. youtube-dl.exe
+  
+Link: https://yt-dl.org/downloads/2018.05.09/youtube-dl.exe
+
+Note: youtube-dl requires Microsoft Visual C++ 2010 Redistributable Package (x86) 
+
+2. ffprobe - Required for downloading in mp3 format
+
+Link: https://ffmpeg.zeranoe.com/builds/

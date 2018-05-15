@@ -1,0 +1,11 @@
+1. youtube-dl
+
+	Run youtube-dl.exe.
+	The command prompt will automatically open and close.
+	Make a folder on desktop and place the .exe in that folder.
+
+2. ffprobe
+	
+	Extract the zip contents.
+	Copy the contents in bin folder and paste them on your folder at desktop.
+

@@ -1,0 +1,5 @@
+1. Fire up command prompt.
+2. Navigate to your folder on desktop. ( cd Desktop followed by cd yourfoldername )
+3. type : "youtube-dl urlofthevideo" without the quotation marks and press enter.
+
+The mp4 file will be downloaded in the folder.
