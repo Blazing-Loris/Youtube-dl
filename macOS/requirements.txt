@@ -1,0 +1,7 @@
+step1:
+press command+space
+step2:
+type terminal and enter
+step3:
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+
