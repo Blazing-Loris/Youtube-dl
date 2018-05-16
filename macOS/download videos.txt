@@ -1,0 +1,9 @@
+step 1:
+brew install youtube-dl
+
+step 2:
+youtube-dl 'link to youtube video'
+
+OR:
+"youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" urlofthevideo" without the initial and final quotation marks and press enter.
+this can be used to download the mp3 format
