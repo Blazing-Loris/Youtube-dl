@@ -1,5 +1,5 @@
  # Youtube-dl
- ## Know something that youtube-dl does?  Well, Chip in!
+ ## have an idea something that youtube-dl does?  Well, Chip in!
 
  So I was going through the documentation of youtube-dl and as it turns out it can do a plethora of things!
  Sadly none of them are explicitly mentioned on the web and it's a pain in the ass to go through the documentation everytime if you want to do something new.
